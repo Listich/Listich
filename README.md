@@ -20,6 +20,7 @@
         🌟 I'm Explorer of new technologies 🚀 
     
         😌 Fun fact: I like The Sims 4 !
+
 <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Listich/github-readme-quotes)
