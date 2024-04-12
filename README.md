@@ -9,7 +9,7 @@
 
 <br/>
 
-<p align= "center">
+<div align= "center">
     
     🔭 I'm Passionate learner
     
