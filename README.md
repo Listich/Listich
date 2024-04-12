@@ -1,7 +1,3 @@
-
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Listich&left_color=red&right_color=green&left_text=HelloVisitors)
-
 # Hi There! 🤘
 I'm Listich!
 
