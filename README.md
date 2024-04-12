@@ -31,6 +31,12 @@
     </a>
 </div>
 <h2 align="center"> 💻 Tech Stack 💻 </h2>
+<br/>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?=c,python,github"/><br>
+    
+</p>
         
 <a href="https://github.com/Listich/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Listich" />
