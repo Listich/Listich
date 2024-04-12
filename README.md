@@ -22,6 +22,7 @@
         😌 Fun fact: I like The Sims 4 !
 
 ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Listich/github-readme-quotes)
 
 <a href="https://github.com/Listich/github-readme-stats">
