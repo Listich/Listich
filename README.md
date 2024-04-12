@@ -10,7 +10,7 @@ Mon profil GitHub est le reflet de mon parcours et de mes compétences en dével
 Découvrez mes projets et n'hésitez pas à me contacter pour toute collaboration ou suggestion!
 
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Listich/github-readme-quotes)
 
 <a href="https://github.com/Listich/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Listich" />
