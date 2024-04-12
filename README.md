@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
 
 Je suis listich, une passionnée de code depuis un an.
 
