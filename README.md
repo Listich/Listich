@@ -2,7 +2,7 @@
 
 <h1 align= "center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.c/?
+    <img src="https://readme-typing-svg.herokuapp.com/?
     font=Righteou&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+ 🤘;+I'm +Listich!;" />
     
 </a>
@@ -15,8 +15,6 @@ Je suis constamment en train d'apprendre et de créer de nouveaux projets passio
 Mon profil GitHub est le reflet de mon parcours et de mes compétences en développement.
 
 Découvrez mes projets et n'hésitez pas à me contacter pour toute collaboration ou suggestion!
-    __________________________________________________________________________________________________________________________________________________
-                                                                                                                                💡 A Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Listich/github-readme-quotes)
 
