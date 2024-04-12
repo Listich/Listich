@@ -40,6 +40,14 @@
 
 <br/>
 <hr/>
+<h2 align="center">⭐ Stats ⭐ </h2>
+<br>
+<a href="https://github.com/Listich/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Listich" />
+</a>
+<a href="https://github.com/Listich/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Listich&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <div align="center">
     <h2> 🐍 My Contributions 🐍 </h2>
@@ -49,11 +57,3 @@
 
 <hr/>
 
-<h2 align="center">⭐ Stats ⭐ </h2>
-<br>
-<a href="https://github.com/Listich/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Listich" />
-</a>
-<a href="https://github.com/Listich/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Listich&layout=compact&langs_count=8&card_width=320" />
-</a>
