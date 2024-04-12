@@ -1,5 +1,13 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Listich&left_color=red&right_color=green&left_text=HelloVisitors)
 
+<h1 align= "center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.c/?
+    font=Righteou&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+ 🤘;+I'm +Listich!;" />
+    
+</a>
+    
+</h1>
 Je suis listich, une passionnée de code depuis un an.
 
 Je suis constamment en train d'apprendre et de créer de nouveaux projets passionnants.
