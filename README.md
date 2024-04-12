@@ -8,4 +8,4 @@ Mon profil GitHub est le reflet de mon parcours et de mes compétences en dével
 Découvrez mes projets et n'hésitez pas à me contacter pour toute collaboration ou suggestion!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Listich&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Listich&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
