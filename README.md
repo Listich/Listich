@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align= "center">
+<p align= "center">
     🔭 I'm Passionate learner 
     🎓 I'm currently a student at Epitech.
     ⚡ I'm striving to increase my knowlege in C and python to expand my job opertunities.
