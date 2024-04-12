@@ -11,15 +11,15 @@
 
 <div align= "center">
     
-    🔭 I'm Passionate learner
+        🔭 I'm Passionate learner
     
-    🎓 I'm currently a student at Epitech.
+        🎓 I'm currently a student at Epitech.
     
-    💫 I'm striving to increase my knowlege in C and python to expand my job opertunities.
+        💫 I'm striving to increase my knowlege in C and python to expand my job opertunities.
     
-    🌟 I'm Explorer of new technologies 🚀 
+        🌟 I'm Explorer of new technologies 🚀 
     
-    😌 Fun fact: I like The Sims 4 !
+        😌 Fun fact: I like The Sims 4 !
     
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Listich/github-readme-quotes)
