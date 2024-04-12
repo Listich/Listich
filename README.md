@@ -8,7 +8,8 @@ Je suis constamment en train d'apprendre et de créer de nouveaux projets passio
 Mon profil GitHub est le reflet de mon parcours et de mes compétences en développement.
 
 Découvrez mes projets et n'hésitez pas à me contacter pour toute collaboration ou suggestion!
-
+    _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+                                                                                                                                💡 A Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Listich/github-readme-quotes)
 
