@@ -2,10 +2,9 @@
 
 <h1 align= "center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?
+        <img src="https://readme-typing-svg.herokuapp.com/?
     font=Righteou&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+ 🤘;+I'm +Listich!;" />
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-</a>
+    </a>
     
 </h1>
 Je suis listich, une passionnée de code depuis un an.
