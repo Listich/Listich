@@ -35,9 +35,21 @@
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,python,github,javascript,html,vscode "/><br>
-    
+    </a>
 </p>
-        
+
+<br/>
+<hr/>
+
+<h2 align="center">⭐ Stats ⭐ </h2>
+<br>
+
+<div align="center">
+    <h2> 🐍 My Contributions 🐍 </h2>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Listich/Listich/output/github-contribution-grid-snake.svg" />
+    <br/><br/><br/>
+</div>
 <a href="https://github.com/Listich/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Listich" />
 </a>
