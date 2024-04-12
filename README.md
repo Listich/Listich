@@ -7,6 +7,15 @@
 </h1>
 <h3 align="center"> Computer science student passionate about coding </h3>
 
+<br/>
+
+<div align= "center">
+    Passionate learner 🤓
+    I'm currently working on **a chat app**
+    I'm currently learning **C, Python**
+    Devoted to crafting clean and elegant code 💻 
+    Explorer of new technologies 🚀 
+    Dreamer of innovative solutions �
 Je suis listich, une passionnée de code depuis un an.
 
 Je suis constamment en train d'apprendre et de créer de nouveaux projets passionnants.
