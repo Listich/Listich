@@ -15,7 +15,7 @@
     
     🎓 I'm currently a student at Epitech.
     
-    ⚡ I'm striving to increase my knowlege in C and python to expand my job opertunities.
+    💫 I'm striving to increase my knowlege in C and python to expand my job opertunities.
     
     🌟 I'm Explorer of new technologies 🚀 
     
