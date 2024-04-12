@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteou&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤘;+I'm+Listich!;" />
     </a>
 </h1>
-<h3 align="center"> Computer science student passionate about coding </h3>
+<h3 align="center"> Computer science student passionate about coding  From France 🇫🇷 </h3>
 
 <br/>
 
@@ -15,8 +15,7 @@
     
         🎓 I'm currently a student at Epitech.
     
-        💫 I'm striving to increase my knowlege in **C https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white**
- and python to expand my job opertunities.
+        💫 I'm striving to increase my knowlege in C and python to expand my job opertunities.
     
         🌟 I'm Explorer of new technologies 🚀 
     
