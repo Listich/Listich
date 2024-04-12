@@ -30,7 +30,8 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"     
     </a>
 </div>
-
+<h2 align="center"> 💻 Tech Stack 💻 </h2>
+        
 <a href="https://github.com/Listich/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Listich" />
 </a>
