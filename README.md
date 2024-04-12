@@ -9,7 +9,7 @@ I'm Listich!
     font=Righteou&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤘;+I'm+Listich!;" />
     </a>
 </h1>
-<h3 align="center"> Computer science student passionate about coding from France </h3>
+<h3 align="center"> Computer science student passionate about coding </h3>
 
 Je suis listich, une passionnée de code depuis un an.
 
