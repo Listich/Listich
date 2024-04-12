@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align= "center">
+<h3 align= "center">
     Passionate learner 🤓
     I'm currently working on **a chat app**
     I'm currently learning **C, Python**
