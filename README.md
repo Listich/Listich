@@ -2,6 +2,11 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Listich&left_color=red&right_color=green&left_text=HelloVisitors)
 
+# Hi There! 🤘
+I'm Listich!
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Listich&left_color=red&right_color=green&left_text=HelloVisitors)
+
 <h1 align= "center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?
