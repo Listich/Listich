@@ -31,8 +31,6 @@
     </a>
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Listich/github-readme-quotes)
-
 <a href="https://github.com/Listich/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Listich" />
 </a>
