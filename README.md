@@ -10,12 +10,11 @@
 <br/>
 
 <div align= "center">
-    Passionate learner 🤓
-    I'm currently working on **a chat app**
-    I'm currently learning **C, Python**
-    Devoted to crafting clean and elegant code 💻 
-    Explorer of new technologies 🚀 
-    Dreamer of innovative solutions �
+    🔭 I'm Passionate learner 
+    🎓 I'm currently a student at Epitech.
+    ⚡ I'm striving to increase my knowlege in C and python to expand my job opertunities.
+    🌟 I'm Explorer of new technologies 🚀 
+    😌 Fun fact: I like The Sims 4 !
 Je suis listich, une passionnée de code depuis un an.
 
 Je suis constamment en train d'apprendre et de créer de nouveaux projets passionnants.
