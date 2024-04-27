@@ -34,7 +34,7 @@
 <br/>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,python,github,javascript,html,vscode "/><br>
+        <img src="https://skillicons.dev/icons?i=c,python,github,javascript,html,vscode,pycharm, emacs, "/><br>
     </a>
 </p>
 
