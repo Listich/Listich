@@ -53,12 +53,6 @@
 
 ---
 
-### 🚀 Recent Projects
-
-- 🧪 **[JEB Backend](https://github.com/Listich/jeb-backend)** — Full-featured Laravel API with authentication, external data synchronization, and automated testing.
-- 🎵 **[Music Player (React)](https://github.com/Listich/music-player)** — A cute UI music player built with React and styled components.
-- 🔍 **Facial Recognition PoC** — Personal AI experiment for face detection in urban settings.
-
 ---
 
 <p align="center"><i>Thanks for stopping by!</i></p>
