@@ -4,9 +4,9 @@
 </p>
 
 <!-- Name & Title -->
-<h1 align="center">Serena Kifoula</h1>
+<h1 align="center">Listich</h1>
 
-<h3 align="center">🎓 Computer Science Student @ Epitech | 💻 Backend Developer | 🌍 Based in France</h3>
+<h3 align="center">🎓 Computer Science Student | 💻 Backend Developer | 🌍 Based in France</h3>
 
 ---
 
