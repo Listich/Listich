@@ -48,7 +48,7 @@ Je suis une étudiante en informatique passionnée par le développement systèm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Listich&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Listich&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
