@@ -14,12 +14,13 @@
 
 ## 👩‍💻 About Me
 
-Je suis une étudiante en informatique passionnée par le développement système et le bas niveau. Mon objectif est de comprendre comment les couches logicielles communiquent avec le matériel.
+I am a computer science student passionate about system programming and low-level development. My goal is to master how software layers interact with hardware.
 
-- 🎓 Étudiante @ **Epitech**
-- 💻 Spécialité : **Système & Backend**
-- 🧠 Focus actuel : Gestion de la mémoire et algorithmique
-- 🎮 Fun fact : Je gère des mondes virtuels sur *The Sims 4* quand je ne suis pas dans un terminal.
+- 🎓 Studying Computer Science @ **Epitech**
+- 💻 Currently focusing on **C and C++**
+- 🧠 Aiming to specialize in **System Programming & Backend Development**
+- 🌱 Constantly learning to write cleaner and more efficient code
+- 🎮 Fun fact: I enjoy managing virtual worlds in *The Sims 4* when I'm not in a terminal
 
 ---
 
@@ -37,11 +38,11 @@ Je suis une étudiante en informatique passionnée par le développement systèm
 
 ## 🚀 Projects
 
-| Projet | Description | Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **MiniShell** | Interpréteur de commandes Unix (pipes, redirections). | `C` |
-| **My_Printf** | Recodage de la fonction standard printf. | `C` |
-| **Data Structures** | Implémentations de listes, piles et files. | `C / C++` |
+| **MiniShell** | A complete Unix command line interpreter (pipes, redirections). | `C` |
+| **My_Printf** | Recoding the standard C `printf` function from scratch. | `C` |
+| **Data Structures** | Custom implementation of linked lists, stacks, and queues. | `C / C++` |
 
 ---
 
@@ -62,5 +63,5 @@ Je suis une étudiante en informatique passionnée par le développement systèm
 </p>
 
 <p align="center">
-✨ <i>Merci de votre visite !</i>
+✨ <i>Thanks for visiting my profile! Happy coding.</i>
 </p>
