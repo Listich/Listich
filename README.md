@@ -1,108 +1,80 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=200&section=header&text=Listich%20&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=200&section=header&text=Serena%20Kifoula%20&fontSize=40&fontColor=ffffff)
 
-<!-- Visitor Badge -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Listich&left_color=gray&right_color=green" alt="visitors" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Listich</h1>
 
-<h3 align="center">
-🎓 Computer Science Student at Epitech  
-💻 Future Backend / System Developer  
-🌍 France
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+Epitech;Future+Backend+%2F+System+Developer;C+%2F+C%2B%2B+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student at **Epitech**
-- 💻 Currently focusing on **C and C++**
-- 🧠 My goal is to improve in **system programming and backend development**
-- 🌱 Always learning and practicing to become a stronger developer
-- 🎮 Fun fact: I enjoy playing *The Sims 4* in my free time
+Je suis étudiante à **Epitech**, passionnée par les rouages internes des systèmes d'exploitation et le développement backend. Mon quotidien se résume à dompter la mémoire en C et à explorer la puissance du C++.
+
+- 🎓 Étudiante en informatique @ **Epitech**
+- 💻 Spécialité : **Système & Bas niveau**
+- 🧠 Focus actuel : Gestion de la mémoire et algorithmie complexe
+- 🎮 Fun fact : Quand je ne débugue pas mes pointeurs, je gère la vie de mes personnages sur *The Sims 4*.
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Tech Stack & Tools
 
+### Languages
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+### Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 Website
+## 🚀 Projects
 
-<p>
-
-<a href="https://listich.fr">
-<img src="https://img.shields.io/badge/Portfolio-listich.fr-27ae60?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-
-</a>
-
-</p>
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **[MiniShell]** | Un interpréteur de commandes Unix complet (pipes, redirections, built-ins). | `C` / `Unix API` |
+| **[My_Printf]** | Recodage de la fonction `printf` de la bibliothèque standard C. | `C` / `Variadic functions` |
+| **[Data Structures]** | Implémentation maison de listes chaînées, piles et files. | `C` / `C++` |
 
 ---
 
-##  Currently Learning
-
-- Memory management in C
-- Data structures (linked lists, stacks, queues)
-- Modern C++ (C++17 / C++20)
-- Algorithms and problem solving
-
-## Projects
-
-### Mini Shell
-A simple Unix shell written in C.
-
-Features:
-- command execution
-- pipes
-- redirections
-
-### Custom printf
-Reimplementation of the standard `printf` function in C.
-
-### Data Structures
-Implementation of:
-- linked lists
-- stacks
-- queues
-
-##  Focus
-
-I am currently focusing on:
-
-- System programming
-- Backend fundamentals
-- Writing clean and efficient C / C++ code
-
----
-
-## 📫 Contact
+## 📊 GitHub Stats
 
 <p align="center">
-
-<a href="mailto:serena.kifoula@epitech.eu">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/serena-k-53970623b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Listich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Listich&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+## 🌐 Connect with me
+
 <p align="center">
-✨ <i>Thanks for visiting my profile</i>
+  <a href="https://listich.fr">
+    <img src="https://img.shields.io/badge/Portfolio-listich.fr-27ae60?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:serena.kifoula@epitech.eu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/serena-k-53970623b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+✨ <i>Merci de votre visite ! Happy coding.</i>
 </p>
