@@ -1,5 +1,5 @@
-<!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=200&section=header&text=Serena%20Kifoula&fontSize=40&fontColor=ffffff)
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=200&section=header&text=Listich%20&fontSize=40&fontColor=ffffff)
 
 <!-- Visitor Badge -->
 <p align="right">
@@ -10,8 +10,8 @@
 
 <h3 align="center">
 🎓 Computer Science Student at Epitech  
-💻 Backend Developer  
-🌍 Based in France
+💻 Future Backend / System Developer  
+🌍 France
 </h3>
 
 ---
@@ -19,47 +19,75 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science student at **Epitech**
-- 💻 Interested in **backend development and system programming**
-- 🧠 Working mainly with **C and C++**
-- 🌱 Always learning new technologies and improving my coding skills
-- ⚙️ I enjoy building **clean, efficient and scalable software**
-- 🎮 Fun fact: I enjoy playing *The Sims 4* in my free time!
+- 💻 Currently focusing on **C and C++**
+- 🧠 My goal is to improve in **system programming and backend development**
+- 🌱 Always learning and practicing to become a stronger developer
+- 🎮 Fun fact: I enjoy playing *The Sims 4* in my free time
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages
 
-### Languages
+<p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Tools & Environment
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Development
-
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Listich&show_icons=true&theme=default&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Listich&layout=compact&langs_count=8&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🌐 Website
+
+<p>
+
+<a href="https://listich.fr">
+<img src="https://img.shields.io/badge/Portfolio-listich.fr-27ae60?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+##  Currently Learning
+
+- Memory management in C
+- Data structures (linked lists, stacks, queues)
+- Modern C++ (C++17 / C++20)
+- Algorithms and problem solving
+
+## Projects
+
+### Mini Shell
+A simple Unix shell written in C.
+
+Features:
+- command execution
+- pipes
+- redirections
+
+### Custom printf
+Reimplementation of the standard `printf` function in C.
+
+### Data Structures
+Implementation of:
+- linked lists
+- stacks
+- queues
+
+##  Focus
+
+I am currently focusing on:
+
+- System programming
+- Backend fundamentals
+- Writing clean and efficient C / C++ code
+
+---
+
+## 📫 Contact
 
 <p align="center">
 
@@ -67,7 +95,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/serena-k-53970623b/" target="_blank">
+<a href="https://www.linkedin.com/in/serena-k-53970623b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -76,7 +104,5 @@
 ---
 
 <p align="center">
-✨ <i>Thanks for visiting my GitHub profile!</i>
+✨ <i>Thanks for visiting my profile</i>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:27ae60,100:2ecc71&height=120&section=footer)
