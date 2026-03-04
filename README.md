@@ -55,8 +55,7 @@ Je suis étudiante à **Epitech**, passionnée par les rouages internes des syst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Listich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Listich&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Listich&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
